@@ -1,0 +1,21 @@
+{
+    "name": "todd/yii2-alipay",
+    "description": "yii2 alipay exention",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "tod.chan",
+            "email": "cx@cengcoi.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "todd\\alipay\\": ""
+        }
+    }
+}
